@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Denniel Josef 
 
-<!--
-**Denjjie/Denjjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSIT student 
 
-Here are some ideas to get you started:
+I build things for the web and capture stories through a lens.
+Currently studying Information Technology while exploring the overlap between code and creative media.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Tech**
+
+ `Java` `SQL` `HTML/CSS` `Cisco Packet Tracer`
+
+**Creative Tools**
+`Adobe Premiere Pro` `DaVinci Resolve` `CapCut` `Adobe Lightroom`
+
